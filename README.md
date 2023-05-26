@@ -1,3 +1,3 @@
 # jdbcCRUD
 
-springBoot + jdbc 이용했습니다
+SpringBoot + 순수 JDBC 이용했습니다
